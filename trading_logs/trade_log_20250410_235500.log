@@ -1,0 +1,536 @@
+2025-04-10 23:55:00,786 - INFO - Current account: 213446928 (Server: OctaFX-Demo)
+2025-04-10 23:55:00,786 - INFO - Already connected to correct demo account: 213446928
+2025-04-10 23:55:00,786 - INFO - Confirmed Account: 213446928, Balance: 10000.0, Equity: 10000.0, Server: OctaFX-Demo
+2025-04-10 23:55:00,786 - INFO - Running backtest...
+2025-04-10 23:55:00,786 - INFO - Backtest Start Date: 2025-01-01 00:00:00
+2025-04-10 23:55:00,786 - INFO - Backtest End Date: 2025-04-10 00:00:00
+2025-04-10 23:55:01,296 - INFO - Backtest - BUY executed - Time: 2025-01-30 02:00:00, Price: 2762.08000, SL: 2762.07800, TP: 2762.08400
+2025-04-10 23:55:01,296 - INFO - Backtest - Position closed - Time: 2025-01-30 03:00:00, Exit Price: 2760.09000, Profit/Loss: -1990.00
+2025-04-10 23:55:01,296 - INFO - Backtest - BUY executed - Time: 2025-01-30 04:00:00, Price: 2760.31000, SL: 2760.30800, TP: 2760.31400
+2025-04-10 23:55:01,296 - INFO - Backtest - Position closed - Time: 2025-01-30 05:00:00, Exit Price: 2761.71000, Profit/Loss: 1400.00
+2025-04-10 23:55:01,296 - INFO - Backtest - BUY executed - Time: 2025-01-30 06:00:00, Price: 2760.35000, SL: 2760.34800, TP: 2760.35400
+2025-04-10 23:55:01,311 - INFO - Backtest - Position closed - Time: 2025-01-30 07:00:00, Exit Price: 2760.50000, Profit/Loss: 150.00
+2025-04-10 23:55:01,411 - INFO - Backtest - BUY executed - Time: 2025-01-31 18:00:00, Price: 2807.35000, SL: 2807.34800, TP: 2807.35400
+2025-04-10 23:55:01,411 - INFO - Backtest - Position closed - Time: 2025-01-31 19:00:00, Exit Price: 2808.58000, Profit/Loss: 1230.00
+2025-04-10 23:55:01,442 - INFO - Backtest - BUY executed - Time: 2025-02-03 11:00:00, Price: 2796.21000, SL: 2796.20800, TP: 2796.21400
+2025-04-10 23:55:01,458 - INFO - Backtest - Position closed - Time: 2025-02-03 12:00:00, Exit Price: 2797.99000, Profit/Loss: 1780.00
+2025-04-10 23:55:01,458 - INFO - Backtest - BUY executed - Time: 2025-02-03 13:00:00, Price: 2801.15000, SL: 2801.14800, TP: 2801.15400
+2025-04-10 23:55:01,458 - INFO - Backtest - Position closed - Time: 2025-02-03 14:00:00, Exit Price: 2810.39000, Profit/Loss: 9240.00
+2025-04-10 23:55:01,474 - INFO - Backtest - BUY executed - Time: 2025-02-04 01:00:00, Price: 2813.82000, SL: 2813.81800, TP: 2813.82400
+2025-04-10 23:55:01,474 - INFO - Backtest - Position closed - Time: 2025-02-04 02:00:00, Exit Price: 2817.20000, Profit/Loss: 3380.00
+2025-04-10 23:55:01,474 - INFO - Backtest - BUY executed - Time: 2025-02-04 04:00:00, Price: 2821.10000, SL: 2821.09800, TP: 2821.10400
+2025-04-10 23:55:01,474 - INFO - Backtest - Position closed - Time: 2025-02-04 05:00:00, Exit Price: 2821.34000, Profit/Loss: 240.00
+2025-04-10 23:55:01,514 - INFO - Backtest - BUY executed - Time: 2025-02-04 17:00:00, Price: 2835.77000, SL: 2835.76800, TP: 2835.77400
+2025-04-10 23:55:01,516 - INFO - Backtest - Position closed - Time: 2025-02-04 18:00:00, Exit Price: 2840.37000, Profit/Loss: 4600.00
+2025-04-10 23:55:01,619 - INFO - Backtest - BUY executed - Time: 2025-02-07 02:00:00, Price: 2858.37000, SL: 2858.36800, TP: 2858.37400
+2025-04-10 23:55:01,620 - INFO - Backtest - Position closed - Time: 2025-02-07 03:00:00, Exit Price: 2866.14000, Profit/Loss: 7770.00
+2025-04-10 23:55:01,623 - INFO - Backtest - BUY executed - Time: 2025-02-07 04:00:00, Price: 2868.67000, SL: 2868.66800, TP: 2868.67400
+2025-04-10 23:55:01,625 - INFO - Backtest - Position closed - Time: 2025-02-07 05:00:00, Exit Price: 2867.08000, Profit/Loss: -1590.00
+2025-04-10 23:55:01,628 - INFO - Backtest - BUY executed - Time: 2025-02-07 06:00:00, Price: 2866.29000, SL: 2866.28800, TP: 2866.29400
+2025-04-10 23:55:01,630 - INFO - Backtest - Position closed - Time: 2025-02-07 07:00:00, Exit Price: 2861.98000, Profit/Loss: -4310.00
+2025-04-10 23:55:01,637 - INFO - Backtest - BUY executed - Time: 2025-02-07 14:00:00, Price: 2863.56000, SL: 2863.55800, TP: 2863.56400
+2025-04-10 23:55:01,637 - INFO - Backtest - Position closed - Time: 2025-02-07 15:00:00, Exit Price: 2862.38000, Profit/Loss: -1180.00
+2025-04-10 23:55:01,653 - INFO - Backtest - BUY executed - Time: 2025-02-07 18:00:00, Price: 2860.64000, SL: 2860.63800, TP: 2860.64400
+2025-04-10 23:55:01,653 - INFO - Backtest - Position closed - Time: 2025-02-07 19:00:00, Exit Price: 2860.00000, Profit/Loss: -640.00
+2025-04-10 23:55:01,653 - INFO - Backtest - BUY executed - Time: 2025-02-10 03:00:00, Price: 2871.81000, SL: 2871.80800, TP: 2871.81400
+2025-04-10 23:55:01,668 - INFO - Backtest - Position closed - Time: 2025-02-10 04:00:00, Exit Price: 2873.77000, Profit/Loss: 1960.00
+2025-04-10 23:55:01,668 - INFO - Backtest - BUY executed - Time: 2025-02-10 05:00:00, Price: 2875.49000, SL: 2875.48800, TP: 2875.49400
+2025-04-10 23:55:01,668 - INFO - Backtest - Position closed - Time: 2025-02-10 06:00:00, Exit Price: 2879.17000, Profit/Loss: 3680.00
+2025-04-10 23:55:01,668 - INFO - Backtest - BUY executed - Time: 2025-02-10 07:00:00, Price: 2879.09000, SL: 2879.08800, TP: 2879.09400
+2025-04-10 23:55:01,668 - INFO - Backtest - Position closed - Time: 2025-02-10 08:00:00, Exit Price: 2888.22000, Profit/Loss: 9130.00
+2025-04-10 23:55:01,700 - INFO - Backtest - BUY executed - Time: 2025-02-11 04:00:00, Price: 2918.61000, SL: 2918.60800, TP: 2918.61400
+2025-04-10 23:55:01,700 - INFO - Backtest - Position closed - Time: 2025-02-11 05:00:00, Exit Price: 2919.39000, Profit/Loss: 780.00
+2025-04-10 23:55:01,756 - INFO - Backtest - BUY executed - Time: 2025-02-12 16:00:00, Price: 2894.03000, SL: 2894.02800, TP: 2894.03400
+2025-04-10 23:55:01,756 - INFO - Backtest - Position closed - Time: 2025-02-12 17:00:00, Exit Price: 2894.53000, Profit/Loss: 500.00
+2025-04-10 23:55:01,756 - INFO - Backtest - BUY executed - Time: 2025-02-12 18:00:00, Price: 2902.49000, SL: 2902.48800, TP: 2902.49400
+2025-04-10 23:55:01,756 - INFO - Backtest - Position closed - Time: 2025-02-12 19:00:00, Exit Price: 2902.81000, Profit/Loss: 320.00
+2025-04-10 23:55:01,772 - INFO - Backtest - BUY executed - Time: 2025-02-12 21:00:00, Price: 2897.82000, SL: 2897.81800, TP: 2897.82400
+2025-04-10 23:55:01,772 - INFO - Backtest - Position closed - Time: 2025-02-12 22:00:00, Exit Price: 2900.91000, Profit/Loss: 3090.00
+2025-04-10 23:55:01,772 - INFO - Backtest - BUY executed - Time: 2025-02-12 23:00:00, Price: 2903.53000, SL: 2903.52800, TP: 2903.53400
+2025-04-10 23:55:01,772 - INFO - Backtest - Position closed - Time: 2025-02-13 01:00:00, Exit Price: 2905.52000, Profit/Loss: 1990.00
+2025-04-10 23:55:01,787 - INFO - Backtest - BUY executed - Time: 2025-02-13 10:00:00, Price: 2911.61000, SL: 2911.60800, TP: 2911.61400
+2025-04-10 23:55:01,803 - INFO - Backtest - Position closed - Time: 2025-02-13 11:00:00, Exit Price: 2915.15000, Profit/Loss: 3540.00
+2025-04-10 23:55:01,824 - INFO - Backtest - BUY executed - Time: 2025-02-13 20:00:00, Price: 2923.96000, SL: 2923.95800, TP: 2923.96400
+2025-04-10 23:55:01,826 - INFO - Backtest - Position closed - Time: 2025-02-13 21:00:00, Exit Price: 2926.80000, Profit/Loss: 2840.00
+2025-04-10 23:55:01,828 - INFO - Backtest - BUY executed - Time: 2025-02-13 22:00:00, Price: 2928.40000, SL: 2928.39800, TP: 2928.40400
+2025-04-10 23:55:01,830 - INFO - Backtest - Position closed - Time: 2025-02-13 23:00:00, Exit Price: 2927.57000, Profit/Loss: -830.00
+2025-04-10 23:55:01,835 - INFO - Backtest - BUY executed - Time: 2025-02-14 02:00:00, Price: 2927.74000, SL: 2927.73800, TP: 2927.74400
+2025-04-10 23:55:01,837 - INFO - Backtest - Position closed - Time: 2025-02-14 03:00:00, Exit Price: 2929.81000, Profit/Loss: 2070.00
+2025-04-10 23:55:01,839 - INFO - Backtest - BUY executed - Time: 2025-02-14 04:00:00, Price: 2927.19000, SL: 2927.18800, TP: 2927.19400
+2025-04-10 23:55:01,841 - INFO - Backtest - Position closed - Time: 2025-02-14 05:00:00, Exit Price: 2924.25000, Profit/Loss: -2940.00
+2025-04-10 23:55:01,850 - INFO - Backtest - BUY executed - Time: 2025-02-14 12:00:00, Price: 2935.78000, SL: 2935.77800, TP: 2935.78400
+2025-04-10 23:55:01,850 - INFO - Backtest - Position closed - Time: 2025-02-14 13:00:00, Exit Price: 2931.01000, Profit/Loss: -4770.00
+2025-04-10 23:55:01,881 - INFO - Backtest - BUY executed - Time: 2025-02-17 05:00:00, Price: 2903.24000, SL: 2903.23800, TP: 2903.24400
+2025-04-10 23:55:01,881 - INFO - Backtest - Position closed - Time: 2025-02-17 06:00:00, Exit Price: 2898.92000, Profit/Loss: -4320.00
+2025-04-10 23:55:01,881 - INFO - Backtest - BUY executed - Time: 2025-02-17 07:00:00, Price: 2895.95000, SL: 2895.94800, TP: 2895.95400
+2025-04-10 23:55:01,881 - INFO - Backtest - Position closed - Time: 2025-02-17 08:00:00, Exit Price: 2896.31000, Profit/Loss: 360.00
+2025-04-10 23:55:01,881 - INFO - Backtest - BUY executed - Time: 2025-02-17 09:00:00, Price: 2902.46000, SL: 2902.45800, TP: 2902.46400
+2025-04-10 23:55:01,881 - INFO - Backtest - Position closed - Time: 2025-02-17 10:00:00, Exit Price: 2900.12000, Profit/Loss: -2340.00
+2025-04-10 23:55:01,897 - INFO - Backtest - BUY executed - Time: 2025-02-17 14:00:00, Price: 2897.50000, SL: 2897.49800, TP: 2897.50400
+2025-04-10 23:55:01,897 - INFO - Backtest - Position closed - Time: 2025-02-17 15:00:00, Exit Price: 2896.68000, Profit/Loss: -820.00
+2025-04-10 23:55:01,912 - INFO - Backtest - BUY executed - Time: 2025-02-17 17:00:00, Price: 2899.15000, SL: 2899.14800, TP: 2899.15400
+2025-04-10 23:55:01,912 - INFO - Backtest - Position closed - Time: 2025-02-17 18:00:00, Exit Price: 2899.13000, Profit/Loss: -20.00
+2025-04-10 23:55:01,912 - INFO - Backtest - BUY executed - Time: 2025-02-17 19:00:00, Price: 2898.40000, SL: 2898.39800, TP: 2898.40400
+2025-04-10 23:55:01,912 - INFO - Backtest - Position closed - Time: 2025-02-17 20:00:00, Exit Price: 2898.17000, Profit/Loss: -230.00
+2025-04-10 23:55:01,912 - INFO - Backtest - BUY executed - Time: 2025-02-17 21:00:00, Price: 2898.74000, SL: 2898.73800, TP: 2898.74400
+2025-04-10 23:55:01,912 - INFO - Backtest - Position closed - Time: 2025-02-18 01:00:00, Exit Price: 2899.28000, Profit/Loss: 540.00
+2025-04-10 23:55:01,912 - INFO - Backtest - BUY executed - Time: 2025-02-18 02:00:00, Price: 2899.13000, SL: 2899.12800, TP: 2899.13400
+2025-04-10 23:55:01,928 - INFO - Backtest - Position closed - Time: 2025-02-18 03:00:00, Exit Price: 2895.63000, Profit/Loss: -3500.00
+2025-04-10 23:55:01,928 - INFO - Backtest - BUY executed - Time: 2025-02-18 04:00:00, Price: 2903.02000, SL: 2903.01800, TP: 2903.02400
+2025-04-10 23:55:01,928 - INFO - Backtest - Position closed - Time: 2025-02-18 05:00:00, Exit Price: 2908.93000, Profit/Loss: 5910.00
+2025-04-10 23:55:01,928 - INFO - Backtest - BUY executed - Time: 2025-02-18 06:00:00, Price: 2910.72000, SL: 2910.71800, TP: 2910.72400
+2025-04-10 23:55:01,928 - INFO - Backtest - Position closed - Time: 2025-02-18 07:00:00, Exit Price: 2910.49000, Profit/Loss: -230.00
+2025-04-10 23:55:01,928 - INFO - Backtest - BUY executed - Time: 2025-02-18 09:00:00, Price: 2911.46000, SL: 2911.45800, TP: 2911.46400
+2025-04-10 23:55:01,928 - INFO - Backtest - Position closed - Time: 2025-02-18 10:00:00, Exit Price: 2912.30000, Profit/Loss: 840.00
+2025-04-10 23:55:01,975 - INFO - Backtest - BUY executed - Time: 2025-02-19 11:00:00, Price: 2945.42000, SL: 2945.41800, TP: 2945.42400
+2025-04-10 23:55:01,975 - INFO - Backtest - Position closed - Time: 2025-02-19 12:00:00, Exit Price: 2944.70000, Profit/Loss: -720.00
+2025-04-10 23:55:02,006 - INFO - Backtest - BUY executed - Time: 2025-02-20 04:00:00, Price: 2940.93000, SL: 2940.92800, TP: 2940.93400
+2025-04-10 23:55:02,006 - INFO - Backtest - Position closed - Time: 2025-02-20 05:00:00, Exit Price: 2941.87000, Profit/Loss: 940.00
+2025-04-10 23:55:02,006 - INFO - Backtest - BUY executed - Time: 2025-02-20 06:00:00, Price: 2939.86000, SL: 2939.85800, TP: 2939.86400
+2025-04-10 23:55:02,006 - INFO - Backtest - Position closed - Time: 2025-02-20 07:00:00, Exit Price: 2946.76000, Profit/Loss: 6900.00
+2025-04-10 23:55:02,022 - INFO - Backtest - BUY executed - Time: 2025-02-20 13:00:00, Price: 2948.67000, SL: 2948.66800, TP: 2948.67400
+2025-04-10 23:55:02,022 - INFO - Backtest - Position closed - Time: 2025-02-20 14:00:00, Exit Price: 2945.45000, Profit/Loss: -3220.00
+2025-04-10 23:55:02,069 - INFO - Backtest - BUY executed - Time: 2025-02-21 16:00:00, Price: 2933.40000, SL: 2933.39800, TP: 2933.40400
+2025-04-10 23:55:02,069 - INFO - Backtest - Position closed - Time: 2025-02-21 17:00:00, Exit Price: 2928.59000, Profit/Loss: -4810.00
+2025-04-10 23:55:02,069 - INFO - Backtest - BUY executed - Time: 2025-02-21 18:00:00, Price: 2936.68000, SL: 2936.67800, TP: 2936.68400
+2025-04-10 23:55:02,084 - INFO - Backtest - Position closed - Time: 2025-02-21 19:00:00, Exit Price: 2939.74000, Profit/Loss: 3060.00
+2025-04-10 23:55:02,084 - INFO - Backtest - BUY executed - Time: 2025-02-21 21:00:00, Price: 2933.33000, SL: 2933.32800, TP: 2933.33400
+2025-04-10 23:55:02,084 - INFO - Backtest - Position closed - Time: 2025-02-21 22:00:00, Exit Price: 2934.65000, Profit/Loss: 1320.00
+2025-04-10 23:55:02,084 - INFO - Backtest - BUY executed - Time: 2025-02-21 23:00:00, Price: 2935.27000, SL: 2935.26800, TP: 2935.27400
+2025-04-10 23:55:02,084 - INFO - Backtest - Position closed - Time: 2025-02-24 01:00:00, Exit Price: 2936.81000, Profit/Loss: 1540.00
+2025-04-10 23:55:02,084 - INFO - Backtest - BUY executed - Time: 2025-02-24 02:00:00, Price: 2930.11000, SL: 2930.10800, TP: 2930.11400
+2025-04-10 23:55:02,084 - INFO - Backtest - Position closed - Time: 2025-02-24 03:00:00, Exit Price: 2927.91000, Profit/Loss: -2200.00
+2025-04-10 23:55:02,100 - INFO - Backtest - BUY executed - Time: 2025-02-24 04:00:00, Price: 2940.81000, SL: 2940.80800, TP: 2940.81400
+2025-04-10 23:55:02,100 - INFO - Backtest - Position closed - Time: 2025-02-24 05:00:00, Exit Price: 2941.03000, Profit/Loss: 220.00
+2025-04-10 23:55:02,100 - INFO - Backtest - BUY executed - Time: 2025-02-24 06:00:00, Price: 2940.64000, SL: 2940.63800, TP: 2940.64400
+2025-04-10 23:55:02,100 - INFO - Backtest - Position closed - Time: 2025-02-24 07:00:00, Exit Price: 2936.28000, Profit/Loss: -4360.00
+2025-04-10 23:55:02,100 - INFO - Backtest - BUY executed - Time: 2025-02-24 08:00:00, Price: 2938.54000, SL: 2938.53800, TP: 2938.54400
+2025-04-10 23:55:02,100 - INFO - Backtest - Position closed - Time: 2025-02-24 09:00:00, Exit Price: 2943.76000, Profit/Loss: 5220.00
+2025-04-10 23:55:02,100 - INFO - Backtest - BUY executed - Time: 2025-02-24 10:00:00, Price: 2946.28000, SL: 2946.27800, TP: 2946.28400
+2025-04-10 23:55:02,100 - INFO - Backtest - Position closed - Time: 2025-02-24 11:00:00, Exit Price: 2944.16000, Profit/Loss: -2120.00
+2025-04-10 23:55:02,100 - INFO - Backtest - BUY executed - Time: 2025-02-24 12:00:00, Price: 2938.28000, SL: 2938.27800, TP: 2938.28400
+2025-04-10 23:55:02,115 - INFO - Backtest - Position closed - Time: 2025-02-24 13:00:00, Exit Price: 2947.69000, Profit/Loss: 9410.00
+2025-04-10 23:55:02,115 - INFO - Backtest - BUY executed - Time: 2025-02-24 14:00:00, Price: 2946.46000, SL: 2946.45800, TP: 2946.46400
+2025-04-10 23:55:02,115 - INFO - Backtest - Position closed - Time: 2025-02-24 15:00:00, Exit Price: 2954.38000, Profit/Loss: 7920.00
+2025-04-10 23:55:02,115 - INFO - Backtest - BUY executed - Time: 2025-02-24 16:00:00, Price: 2938.72000, SL: 2938.71800, TP: 2938.72400
+2025-04-10 23:55:02,115 - INFO - Backtest - Position closed - Time: 2025-02-24 17:00:00, Exit Price: 2936.42000, Profit/Loss: -2300.00
+2025-04-10 23:55:02,115 - INFO - Backtest - BUY executed - Time: 2025-02-24 20:00:00, Price: 2947.12000, SL: 2947.11800, TP: 2947.12400
+2025-04-10 23:55:02,115 - INFO - Backtest - Position closed - Time: 2025-02-24 21:00:00, Exit Price: 2949.12000, Profit/Loss: 2000.00
+2025-04-10 23:55:02,131 - INFO - Backtest - BUY executed - Time: 2025-02-24 22:00:00, Price: 2950.51000, SL: 2950.50800, TP: 2950.51400
+2025-04-10 23:55:02,131 - INFO - Backtest - Position closed - Time: 2025-02-24 23:00:00, Exit Price: 2952.63000, Profit/Loss: 2120.00
+2025-04-10 23:55:02,131 - INFO - Backtest - BUY executed - Time: 2025-02-25 01:00:00, Price: 2949.92000, SL: 2949.91800, TP: 2949.92400
+2025-04-10 23:55:02,131 - INFO - Backtest - Position closed - Time: 2025-02-25 02:00:00, Exit Price: 2949.60000, Profit/Loss: -320.00
+2025-04-10 23:55:02,131 - INFO - Backtest - BUY executed - Time: 2025-02-25 03:00:00, Price: 2949.54000, SL: 2949.53800, TP: 2949.54400
+2025-04-10 23:55:02,131 - INFO - Backtest - Position closed - Time: 2025-02-25 04:00:00, Exit Price: 2948.56000, Profit/Loss: -980.00
+2025-04-10 23:55:02,177 - INFO - Backtest - BUY executed - Time: 2025-02-26 02:00:00, Price: 2923.46000, SL: 2923.45800, TP: 2923.46400
+2025-04-10 23:55:02,177 - INFO - Backtest - Position closed - Time: 2025-02-26 03:00:00, Exit Price: 2917.75000, Profit/Loss: -5710.00
+2025-04-10 23:55:02,177 - INFO - Backtest - BUY executed - Time: 2025-02-26 04:00:00, Price: 2920.96000, SL: 2920.95800, TP: 2920.96400
+2025-04-10 23:55:02,177 - INFO - Backtest - Position closed - Time: 2025-02-26 05:00:00, Exit Price: 2917.10000, Profit/Loss: -3860.00
+2025-04-10 23:55:02,177 - INFO - Backtest - BUY executed - Time: 2025-02-26 06:00:00, Price: 2914.96000, SL: 2914.95800, TP: 2914.96400
+2025-04-10 23:55:02,177 - INFO - Backtest - Position closed - Time: 2025-02-26 07:00:00, Exit Price: 2915.32000, Profit/Loss: 360.00
+2025-04-10 23:55:02,177 - INFO - Backtest - BUY executed - Time: 2025-02-26 08:00:00, Price: 2906.67000, SL: 2906.66800, TP: 2906.67400
+2025-04-10 23:55:02,192 - INFO - Backtest - Position closed - Time: 2025-02-26 09:00:00, Exit Price: 2915.37000, Profit/Loss: 8700.00
+2025-04-10 23:55:02,192 - INFO - Backtest - BUY executed - Time: 2025-02-26 10:00:00, Price: 2917.90000, SL: 2917.89800, TP: 2917.90400
+2025-04-10 23:55:02,192 - INFO - Backtest - Position closed - Time: 2025-02-26 11:00:00, Exit Price: 2913.14000, Profit/Loss: -4760.00
+2025-04-10 23:55:02,192 - INFO - Backtest - BUY executed - Time: 2025-02-26 12:00:00, Price: 2912.63000, SL: 2912.62800, TP: 2912.63400
+2025-04-10 23:55:02,192 - INFO - Backtest - Position closed - Time: 2025-02-26 13:00:00, Exit Price: 2913.76000, Profit/Loss: 1130.00
+2025-04-10 23:55:02,192 - INFO - Backtest - BUY executed - Time: 2025-02-26 14:00:00, Price: 2913.80000, SL: 2913.79800, TP: 2913.80400
+2025-04-10 23:55:02,192 - INFO - Backtest - Position closed - Time: 2025-02-26 15:00:00, Exit Price: 2905.82000, Profit/Loss: -7980.00
+2025-04-10 23:55:02,192 - INFO - Backtest - BUY executed - Time: 2025-02-26 17:00:00, Price: 2913.03000, SL: 2913.02800, TP: 2913.03400
+2025-04-10 23:55:02,208 - INFO - Backtest - Position closed - Time: 2025-02-26 18:00:00, Exit Price: 2912.99000, Profit/Loss: -40.00
+2025-04-10 23:55:02,208 - INFO - Backtest - BUY executed - Time: 2025-02-26 19:00:00, Price: 2913.71000, SL: 2913.70800, TP: 2913.71400
+2025-04-10 23:55:02,208 - INFO - Backtest - Position closed - Time: 2025-02-26 20:00:00, Exit Price: 2914.86000, Profit/Loss: 1150.00
+2025-04-10 23:55:02,208 - INFO - Backtest - BUY executed - Time: 2025-02-26 21:00:00, Price: 2913.84000, SL: 2913.83800, TP: 2913.84400
+2025-04-10 23:55:02,208 - INFO - Backtest - Position closed - Time: 2025-02-26 22:00:00, Exit Price: 2916.22000, Profit/Loss: 2380.00
+2025-04-10 23:55:02,208 - INFO - Backtest - BUY executed - Time: 2025-02-26 23:00:00, Price: 2915.78000, SL: 2915.77800, TP: 2915.78400
+2025-04-10 23:55:02,208 - INFO - Backtest - Position closed - Time: 2025-02-27 01:00:00, Exit Price: 2919.15000, Profit/Loss: 3370.00
+2025-04-10 23:55:02,208 - INFO - Backtest - BUY executed - Time: 2025-02-27 02:00:00, Price: 2917.05000, SL: 2917.04800, TP: 2917.05400
+2025-04-10 23:55:02,208 - INFO - Backtest - Position closed - Time: 2025-02-27 03:00:00, Exit Price: 2912.57000, Profit/Loss: -4480.00
+2025-04-10 23:55:02,223 - INFO - Backtest - BUY executed - Time: 2025-02-27 04:00:00, Price: 2906.68000, SL: 2906.67800, TP: 2906.68400
+2025-04-10 23:55:02,223 - INFO - Backtest - Position closed - Time: 2025-02-27 05:00:00, Exit Price: 2905.67000, Profit/Loss: -1010.00
+2025-04-10 23:55:02,239 - INFO - Backtest - BUY executed - Time: 2025-02-27 20:00:00, Price: 2887.14000, SL: 2887.13800, TP: 2887.14400
+2025-04-10 23:55:02,239 - INFO - Backtest - Position closed - Time: 2025-02-27 21:00:00, Exit Price: 2879.12000, Profit/Loss: -8020.00
+2025-04-10 23:55:02,255 - INFO - Backtest - BUY executed - Time: 2025-02-27 23:00:00, Price: 2876.85000, SL: 2876.84800, TP: 2876.85400
+2025-04-10 23:55:02,255 - INFO - Backtest - Position closed - Time: 2025-02-28 01:00:00, Exit Price: 2875.92000, Profit/Loss: -930.00
+2025-04-10 23:55:02,255 - INFO - Backtest - BUY executed - Time: 2025-02-28 02:00:00, Price: 2876.95000, SL: 2876.94800, TP: 2876.95400
+2025-04-10 23:55:02,255 - INFO - Backtest - Position closed - Time: 2025-02-28 03:00:00, Exit Price: 2874.74000, Profit/Loss: -2210.00
+2025-04-10 23:55:02,255 - INFO - Backtest - BUY executed - Time: 2025-02-28 04:00:00, Price: 2873.28000, SL: 2873.27800, TP: 2873.28400
+2025-04-10 23:55:02,255 - INFO - Backtest - Position closed - Time: 2025-02-28 05:00:00, Exit Price: 2865.68000, Profit/Loss: -7600.00
+2025-04-10 23:55:02,270 - INFO - Backtest - BUY executed - Time: 2025-02-28 13:00:00, Price: 2862.12000, SL: 2862.11800, TP: 2862.12400
+2025-04-10 23:55:02,270 - INFO - Backtest - Position closed - Time: 2025-02-28 14:00:00, Exit Price: 2856.23000, Profit/Loss: -5890.00
+2025-04-10 23:55:02,286 - INFO - Backtest - BUY executed - Time: 2025-02-28 21:00:00, Price: 2849.53000, SL: 2849.52800, TP: 2849.53400
+2025-04-10 23:55:02,286 - INFO - Backtest - Position closed - Time: 2025-02-28 22:00:00, Exit Price: 2854.64000, Profit/Loss: 5110.00
+2025-04-10 23:55:02,286 - INFO - Backtest - BUY executed - Time: 2025-02-28 23:00:00, Price: 2857.19000, SL: 2857.18800, TP: 2857.19400
+2025-04-10 23:55:02,286 - INFO - Backtest - Position closed - Time: 2025-03-03 01:00:00, Exit Price: 2870.82000, Profit/Loss: 13630.00
+2025-04-10 23:55:02,302 - INFO - Backtest - BUY executed - Time: 2025-03-03 02:00:00, Price: 2865.72000, SL: 2865.71800, TP: 2865.72400
+2025-04-10 23:55:02,302 - INFO - Backtest - Position closed - Time: 2025-03-03 03:00:00, Exit Price: 2870.81000, Profit/Loss: 5090.00
+2025-04-10 23:55:02,302 - INFO - Backtest - BUY executed - Time: 2025-03-03 04:00:00, Price: 2868.17000, SL: 2868.16800, TP: 2868.17400
+2025-04-10 23:55:02,302 - INFO - Backtest - Position closed - Time: 2025-03-03 05:00:00, Exit Price: 2864.76000, Profit/Loss: -3410.00
+2025-04-10 23:55:02,302 - INFO - Backtest - BUY executed - Time: 2025-03-03 06:00:00, Price: 2867.33000, SL: 2867.32800, TP: 2867.33400
+2025-04-10 23:55:02,302 - INFO - Backtest - Position closed - Time: 2025-03-03 07:00:00, Exit Price: 2863.79000, Profit/Loss: -3540.00
+2025-04-10 23:55:02,302 - INFO - Backtest - BUY executed - Time: 2025-03-03 08:00:00, Price: 2865.48000, SL: 2865.47800, TP: 2865.48400
+2025-04-10 23:55:02,302 - INFO - Backtest - Position closed - Time: 2025-03-03 09:00:00, Exit Price: 2863.22000, Profit/Loss: -2260.00
+2025-04-10 23:55:02,317 - INFO - Backtest - BUY executed - Time: 2025-03-03 15:00:00, Price: 2872.56000, SL: 2872.55800, TP: 2872.56400
+2025-04-10 23:55:02,317 - INFO - Backtest - Position closed - Time: 2025-03-03 16:00:00, Exit Price: 2876.83000, Profit/Loss: 4270.00
+2025-04-10 23:55:02,348 - INFO - Backtest - BUY executed - Time: 2025-03-04 04:00:00, Price: 2885.43000, SL: 2885.42800, TP: 2885.43400
+2025-04-10 23:55:02,348 - INFO - Backtest - Position closed - Time: 2025-03-04 05:00:00, Exit Price: 2888.60000, Profit/Loss: 3170.00
+2025-04-10 23:55:02,348 - INFO - Backtest - BUY executed - Time: 2025-03-04 09:00:00, Price: 2899.89000, SL: 2899.88800, TP: 2899.89400
+2025-04-10 23:55:02,348 - INFO - Backtest - Position closed - Time: 2025-03-04 10:00:00, Exit Price: 2913.96000, Profit/Loss: 14070.00
+2025-04-10 23:55:02,372 - INFO - Backtest - BUY executed - Time: 2025-03-04 16:00:00, Price: 2903.46000, SL: 2903.45800, TP: 2903.46400
+2025-04-10 23:55:02,374 - INFO - Backtest - Position closed - Time: 2025-03-04 17:00:00, Exit Price: 2905.97000, Profit/Loss: 2510.00
+2025-04-10 23:55:02,411 - INFO - Backtest - BUY executed - Time: 2025-03-05 22:00:00, Price: 2922.11000, SL: 2922.10800, TP: 2922.11400
+2025-04-10 23:55:02,411 - INFO - Backtest - Position closed - Time: 2025-03-05 23:00:00, Exit Price: 2918.42000, Profit/Loss: -3690.00
+2025-04-10 23:55:02,427 - INFO - Backtest - BUY executed - Time: 2025-03-06 03:00:00, Price: 2924.58000, SL: 2924.57800, TP: 2924.58400
+2025-04-10 23:55:02,427 - INFO - Backtest - Position closed - Time: 2025-03-06 04:00:00, Exit Price: 2925.54000, Profit/Loss: 960.00
+2025-04-10 23:55:02,427 - INFO - Backtest - BUY executed - Time: 2025-03-06 05:00:00, Price: 2921.18000, SL: 2921.17800, TP: 2921.18400
+2025-04-10 23:55:02,427 - INFO - Backtest - Position closed - Time: 2025-03-06 06:00:00, Exit Price: 2917.34000, Profit/Loss: -3840.00
+2025-04-10 23:55:02,442 - INFO - Backtest - BUY executed - Time: 2025-03-06 18:00:00, Price: 2917.10000, SL: 2917.09800, TP: 2917.10400
+2025-04-10 23:55:02,458 - INFO - Backtest - Position closed - Time: 2025-03-06 19:00:00, Exit Price: 2915.46000, Profit/Loss: -1640.00
+2025-04-10 23:55:02,458 - INFO - Backtest - BUY executed - Time: 2025-03-06 20:00:00, Price: 2916.18000, SL: 2916.17800, TP: 2916.18400
+2025-04-10 23:55:02,458 - INFO - Backtest - Position closed - Time: 2025-03-06 21:00:00, Exit Price: 2913.93000, Profit/Loss: -2250.00
+2025-04-10 23:55:02,458 - INFO - Backtest - BUY executed - Time: 2025-03-06 22:00:00, Price: 2908.74000, SL: 2908.73800, TP: 2908.74400
+2025-04-10 23:55:02,458 - INFO - Backtest - Position closed - Time: 2025-03-06 23:00:00, Exit Price: 2910.90000, Profit/Loss: 2160.00
+2025-04-10 23:55:02,458 - INFO - Backtest - BUY executed - Time: 2025-03-07 01:00:00, Price: 2910.26000, SL: 2910.25800, TP: 2910.26400
+2025-04-10 23:55:02,458 - INFO - Backtest - Position closed - Time: 2025-03-07 02:00:00, Exit Price: 2904.71000, Profit/Loss: -5550.00
+2025-04-10 23:55:02,474 - INFO - Backtest - BUY executed - Time: 2025-03-07 08:00:00, Price: 2913.42000, SL: 2913.41800, TP: 2913.42400
+2025-04-10 23:55:02,474 - INFO - Backtest - Position closed - Time: 2025-03-07 09:00:00, Exit Price: 2917.05000, Profit/Loss: 3630.00
+2025-04-10 23:55:02,474 - INFO - Backtest - BUY executed - Time: 2025-03-07 10:00:00, Price: 2922.36000, SL: 2922.35800, TP: 2922.36400
+2025-04-10 23:55:02,474 - INFO - Backtest - Position closed - Time: 2025-03-07 11:00:00, Exit Price: 2921.57000, Profit/Loss: -790.00
+2025-04-10 23:55:02,474 - INFO - Backtest - BUY executed - Time: 2025-03-07 12:00:00, Price: 2917.89000, SL: 2917.88800, TP: 2917.89400
+2025-04-10 23:55:02,489 - INFO - Backtest - Position closed - Time: 2025-03-07 13:00:00, Exit Price: 2918.71000, Profit/Loss: 820.00
+2025-04-10 23:55:02,489 - INFO - Backtest - BUY executed - Time: 2025-03-07 14:00:00, Price: 2918.67000, SL: 2918.66800, TP: 2918.67400
+2025-04-10 23:55:02,489 - INFO - Backtest - Position closed - Time: 2025-03-07 15:00:00, Exit Price: 2913.73000, Profit/Loss: -4940.00
+2025-04-10 23:55:02,489 - INFO - Backtest - BUY executed - Time: 2025-03-07 17:00:00, Price: 2915.71000, SL: 2915.70800, TP: 2915.71400
+2025-04-10 23:55:02,489 - INFO - Backtest - Position closed - Time: 2025-03-07 18:00:00, Exit Price: 2913.94000, Profit/Loss: -1770.00
+2025-04-10 23:55:02,553 - INFO - Backtest - BUY executed - Time: 2025-03-11 04:00:00, Price: 2898.99000, SL: 2898.98800, TP: 2898.99400
+2025-04-10 23:55:02,555 - INFO - Backtest - Position closed - Time: 2025-03-11 05:00:00, Exit Price: 2896.88000, Profit/Loss: -2110.00
+2025-04-10 23:55:02,557 - INFO - Backtest - BUY executed - Time: 2025-03-11 06:00:00, Price: 2897.66000, SL: 2897.65800, TP: 2897.66400
+2025-04-10 23:55:02,559 - INFO - Backtest - Position closed - Time: 2025-03-11 07:00:00, Exit Price: 2895.81000, Profit/Loss: -1850.00
+2025-04-10 23:55:02,561 - INFO - Backtest - BUY executed - Time: 2025-03-11 08:00:00, Price: 2902.32000, SL: 2902.31800, TP: 2902.32400
+2025-04-10 23:55:02,562 - INFO - Backtest - Position closed - Time: 2025-03-11 09:00:00, Exit Price: 2900.96000, Profit/Loss: -1360.00
+2025-04-10 23:55:02,590 - INFO - Backtest - BUY executed - Time: 2025-03-12 01:00:00, Price: 2915.44000, SL: 2915.43800, TP: 2915.44400
+2025-04-10 23:55:02,591 - INFO - Backtest - Position closed - Time: 2025-03-12 02:00:00, Exit Price: 2914.15000, Profit/Loss: -1290.00
+2025-04-10 23:55:02,614 - INFO - Backtest - BUY executed - Time: 2025-03-12 21:00:00, Price: 2931.28000, SL: 2931.27800, TP: 2931.28400
+2025-04-10 23:55:02,614 - INFO - Backtest - Position closed - Time: 2025-03-12 22:00:00, Exit Price: 2933.24000, Profit/Loss: 1960.00
+2025-04-10 23:55:02,724 - INFO - Backtest - BUY executed - Time: 2025-03-17 16:00:00, Price: 2998.60000, SL: 2998.59800, TP: 2998.60400
+2025-04-10 23:55:02,724 - INFO - Backtest - Position closed - Time: 2025-03-17 17:00:00, Exit Price: 2997.08000, Profit/Loss: -1520.00
+2025-04-10 23:55:02,724 - INFO - Backtest - BUY executed - Time: 2025-03-17 18:00:00, Price: 2994.41000, SL: 2994.40800, TP: 2994.41400
+2025-04-10 23:55:02,739 - INFO - Backtest - Position closed - Time: 2025-03-17 19:00:00, Exit Price: 2997.77000, Profit/Loss: 3360.00
+2025-04-10 23:55:02,739 - INFO - Backtest - BUY executed - Time: 2025-03-17 20:00:00, Price: 2999.31000, SL: 2999.30800, TP: 2999.31400
+2025-04-10 23:55:02,739 - INFO - Backtest - Position closed - Time: 2025-03-17 21:00:00, Exit Price: 3000.17000, Profit/Loss: 860.00
+2025-04-10 23:55:02,739 - INFO - Backtest - BUY executed - Time: 2025-03-17 22:00:00, Price: 3000.43000, SL: 3000.42800, TP: 3000.43400
+2025-04-10 23:55:02,739 - INFO - Backtest - Position closed - Time: 2025-03-18 00:00:00, Exit Price: 3000.16000, Profit/Loss: -270.00
+2025-04-10 23:55:02,739 - INFO - Backtest - BUY executed - Time: 2025-03-18 01:00:00, Price: 2999.75000, SL: 2999.74800, TP: 2999.75400
+2025-04-10 23:55:02,739 - INFO - Backtest - Position closed - Time: 2025-03-18 02:00:00, Exit Price: 3001.49000, Profit/Loss: 1740.00
+2025-04-10 23:55:02,739 - INFO - Backtest - BUY executed - Time: 2025-03-18 03:00:00, Price: 3005.64000, SL: 3005.63800, TP: 3005.64400
+2025-04-10 23:55:02,755 - INFO - Backtest - Position closed - Time: 2025-03-18 04:00:00, Exit Price: 3010.85000, Profit/Loss: 5210.00
+2025-04-10 23:55:02,821 - INFO - Backtest - BUY executed - Time: 2025-03-19 21:00:00, Price: 3047.82000, SL: 3047.81800, TP: 3047.82400
+2025-04-10 23:55:02,823 - INFO - Backtest - Position closed - Time: 2025-03-19 22:00:00, Exit Price: 3046.94000, Profit/Loss: -880.00
+2025-04-10 23:55:02,825 - INFO - Backtest - BUY executed - Time: 2025-03-20 00:00:00, Price: 3050.13000, SL: 3050.12800, TP: 3050.13400
+2025-04-10 23:55:02,827 - INFO - Backtest - Position closed - Time: 2025-03-20 01:00:00, Exit Price: 3050.01000, Profit/Loss: -120.00
+2025-04-10 23:55:02,830 - INFO - Backtest - BUY executed - Time: 2025-03-20 03:00:00, Price: 3049.61000, SL: 3049.60800, TP: 3049.61400
+2025-04-10 23:55:02,832 - INFO - Backtest - Position closed - Time: 2025-03-20 04:00:00, Exit Price: 3045.59000, Profit/Loss: -4020.00
+2025-04-10 23:55:02,833 - INFO - Backtest - BUY executed - Time: 2025-03-20 05:00:00, Price: 3049.95000, SL: 3049.94800, TP: 3049.95400
+2025-04-10 23:55:02,833 - INFO - Backtest - Position closed - Time: 2025-03-20 06:00:00, Exit Price: 3052.44000, Profit/Loss: 2490.00
+2025-04-10 23:55:02,849 - INFO - Backtest - BUY executed - Time: 2025-03-21 00:00:00, Price: 3045.73000, SL: 3045.72800, TP: 3045.73400
+2025-04-10 23:55:02,864 - INFO - Backtest - Position closed - Time: 2025-03-21 01:00:00, Exit Price: 3046.35000, Profit/Loss: 620.00
+2025-04-10 23:55:02,864 - INFO - Backtest - BUY executed - Time: 2025-03-21 02:00:00, Price: 3042.78000, SL: 3042.77800, TP: 3042.78400
+2025-04-10 23:55:02,864 - INFO - Backtest - Position closed - Time: 2025-03-21 03:00:00, Exit Price: 3035.88000, Profit/Loss: -6900.00
+2025-04-10 23:55:02,896 - INFO - Backtest - BUY executed - Time: 2025-03-24 00:00:00, Price: 3025.51000, SL: 3025.50800, TP: 3025.51400
+2025-04-10 23:55:02,896 - INFO - Backtest - Position closed - Time: 2025-03-24 01:00:00, Exit Price: 3024.65000, Profit/Loss: -860.00
+2025-04-10 23:55:02,896 - INFO - Backtest - BUY executed - Time: 2025-03-24 02:00:00, Price: 3018.47000, SL: 3018.46800, TP: 3018.47400
+2025-04-10 23:55:02,896 - INFO - Backtest - Position closed - Time: 2025-03-24 03:00:00, Exit Price: 3020.86000, Profit/Loss: 2390.00
+2025-04-10 23:55:02,896 - INFO - Backtest - BUY executed - Time: 2025-03-24 04:00:00, Price: 3016.26000, SL: 3016.25800, TP: 3016.26400
+2025-04-10 23:55:02,911 - INFO - Backtest - Position closed - Time: 2025-03-24 05:00:00, Exit Price: 3016.89000, Profit/Loss: 630.00
+2025-04-10 23:55:02,911 - INFO - Backtest - BUY executed - Time: 2025-03-24 06:00:00, Price: 3019.41000, SL: 3019.40800, TP: 3019.41400
+2025-04-10 23:55:02,911 - INFO - Backtest - Position closed - Time: 2025-03-24 07:00:00, Exit Price: 3022.03000, Profit/Loss: 2620.00
+2025-04-10 23:55:02,911 - INFO - Backtest - BUY executed - Time: 2025-03-24 09:00:00, Price: 3022.31000, SL: 3022.30800, TP: 3022.31400
+2025-04-10 23:55:02,911 - INFO - Backtest - Position closed - Time: 2025-03-24 10:00:00, Exit Price: 3028.79000, Profit/Loss: 6480.00
+2025-04-10 23:55:02,911 - INFO - Backtest - BUY executed - Time: 2025-03-24 11:00:00, Price: 3023.53000, SL: 3023.52800, TP: 3023.53400
+2025-04-10 23:55:02,911 - INFO - Backtest - Position closed - Time: 2025-03-24 12:00:00, Exit Price: 3028.08000, Profit/Loss: 4550.00
+2025-04-10 23:55:02,927 - INFO - Backtest - BUY executed - Time: 2025-03-24 13:00:00, Price: 3024.57000, SL: 3024.56800, TP: 3024.57400
+2025-04-10 23:55:02,927 - INFO - Backtest - Position closed - Time: 2025-03-24 14:00:00, Exit Price: 3024.20000, Profit/Loss: -370.00
+2025-04-10 23:55:02,927 - INFO - Backtest - BUY executed - Time: 2025-03-24 15:00:00, Price: 3022.49000, SL: 3022.48800, TP: 3022.49400
+2025-04-10 23:55:02,927 - INFO - Backtest - Position closed - Time: 2025-03-24 16:00:00, Exit Price: 3012.06000, Profit/Loss: -10430.00
+2025-04-10 23:55:02,942 - INFO - Backtest - BUY executed - Time: 2025-03-25 03:00:00, Price: 3011.81000, SL: 3011.80800, TP: 3011.81400
+2025-04-10 23:55:02,942 - INFO - Backtest - Position closed - Time: 2025-03-25 04:00:00, Exit Price: 3009.10000, Profit/Loss: -2710.00
+2025-04-10 23:55:02,942 - INFO - Backtest - BUY executed - Time: 2025-03-25 05:00:00, Price: 3015.28000, SL: 3015.27800, TP: 3015.28400
+2025-04-10 23:55:02,942 - INFO - Backtest - Position closed - Time: 2025-03-25 06:00:00, Exit Price: 3015.21000, Profit/Loss: -70.00
+2025-04-10 23:55:02,942 - INFO - Backtest - BUY executed - Time: 2025-03-25 07:00:00, Price: 3018.25000, SL: 3018.24800, TP: 3018.25400
+2025-04-10 23:55:02,958 - INFO - Backtest - Position closed - Time: 2025-03-25 08:00:00, Exit Price: 3017.71000, Profit/Loss: -540.00
+2025-04-10 23:55:02,958 - INFO - Backtest - BUY executed - Time: 2025-03-25 09:00:00, Price: 3011.05000, SL: 3011.04800, TP: 3011.05400
+2025-04-10 23:55:02,958 - INFO - Backtest - Position closed - Time: 2025-03-25 10:00:00, Exit Price: 3021.27000, Profit/Loss: 10220.00
+2025-04-10 23:55:02,958 - INFO - Backtest - BUY executed - Time: 2025-03-25 13:00:00, Price: 3020.65000, SL: 3020.64800, TP: 3020.65400
+2025-04-10 23:55:02,958 - INFO - Backtest - Position closed - Time: 2025-03-25 14:00:00, Exit Price: 3021.76000, Profit/Loss: 1110.00
+2025-04-10 23:55:02,974 - INFO - Backtest - BUY executed - Time: 2025-03-25 16:00:00, Price: 3024.99000, SL: 3024.98800, TP: 3024.99400
+2025-04-10 23:55:02,974 - INFO - Backtest - Position closed - Time: 2025-03-25 17:00:00, Exit Price: 3021.46000, Profit/Loss: -3530.00
+2025-04-10 23:55:02,974 - INFO - Backtest - BUY executed - Time: 2025-03-25 18:00:00, Price: 3023.15000, SL: 3023.14800, TP: 3023.15400
+2025-04-10 23:55:02,974 - INFO - Backtest - Position closed - Time: 2025-03-25 19:00:00, Exit Price: 3022.64000, Profit/Loss: -510.00
+2025-04-10 23:55:02,974 - INFO - Backtest - BUY executed - Time: 2025-03-25 20:00:00, Price: 3018.41000, SL: 3018.40800, TP: 3018.41400
+2025-04-10 23:55:02,974 - INFO - Backtest - Position closed - Time: 2025-03-25 21:00:00, Exit Price: 3019.60000, Profit/Loss: 1190.00
+2025-04-10 23:55:02,989 - INFO - Backtest - BUY executed - Time: 2025-03-26 03:00:00, Price: 3024.75000, SL: 3024.74800, TP: 3024.75400
+2025-04-10 23:55:02,989 - INFO - Backtest - Position closed - Time: 2025-03-26 04:00:00, Exit Price: 3024.16000, Profit/Loss: -590.00
+2025-04-10 23:55:02,989 - INFO - Backtest - BUY executed - Time: 2025-03-26 08:00:00, Price: 3026.15000, SL: 3026.14800, TP: 3026.15400
+2025-04-10 23:55:02,989 - INFO - Backtest - Position closed - Time: 2025-03-26 09:00:00, Exit Price: 3030.47000, Profit/Loss: 4320.00
+2025-04-10 23:55:02,989 - INFO - Backtest - BUY executed - Time: 2025-03-26 10:00:00, Price: 3023.96000, SL: 3023.95800, TP: 3023.96400
+2025-04-10 23:55:03,005 - INFO - Backtest - Position closed - Time: 2025-03-26 11:00:00, Exit Price: 3018.64000, Profit/Loss: -5320.00
+2025-04-10 23:55:03,005 - INFO - Backtest - BUY executed - Time: 2025-03-26 12:00:00, Price: 3023.25000, SL: 3023.24800, TP: 3023.25400
+2025-04-10 23:55:03,005 - INFO - Backtest - Position closed - Time: 2025-03-26 13:00:00, Exit Price: 3027.49000, Profit/Loss: 4240.00
+2025-04-10 23:55:03,005 - INFO - Backtest - BUY executed - Time: 2025-03-26 14:00:00, Price: 3027.03000, SL: 3027.02800, TP: 3027.03400
+2025-04-10 23:55:03,005 - INFO - Backtest - Position closed - Time: 2025-03-26 15:00:00, Exit Price: 3016.69000, Profit/Loss: -10340.00
+2025-04-10 23:55:03,030 - INFO - Backtest - BUY executed - Time: 2025-03-27 02:00:00, Price: 3025.33000, SL: 3025.32800, TP: 3025.33400
+2025-04-10 23:55:03,032 - INFO - Backtest - Position closed - Time: 2025-03-27 03:00:00, Exit Price: 3023.51000, Profit/Loss: -1820.00
+2025-04-10 23:55:03,034 - INFO - Backtest - BUY executed - Time: 2025-03-27 04:00:00, Price: 3031.66000, SL: 3031.65800, TP: 3031.66400
+2025-04-10 23:55:03,036 - INFO - Backtest - Position closed - Time: 2025-03-27 05:00:00, Exit Price: 3033.59000, Profit/Loss: 1930.00
+2025-04-10 23:55:03,058 - INFO - Backtest - BUY executed - Time: 2025-03-27 18:00:00, Price: 3048.32000, SL: 3048.31800, TP: 3048.32400
+2025-04-10 23:55:03,060 - INFO - Backtest - Position closed - Time: 2025-03-27 19:00:00, Exit Price: 3052.84000, Profit/Loss: 4520.00
+2025-04-10 23:55:03,062 - INFO - Backtest - BUY executed - Time: 2025-03-27 20:00:00, Price: 3055.82000, SL: 3055.81800, TP: 3055.82400
+2025-04-10 23:55:03,064 - INFO - Backtest - Position closed - Time: 2025-03-27 21:00:00, Exit Price: 3057.44000, Profit/Loss: 1620.00
+2025-04-10 23:55:03,067 - INFO - Backtest - BUY executed - Time: 2025-03-28 00:00:00, Price: 3055.09000, SL: 3055.08800, TP: 3055.09400
+2025-04-10 23:55:03,069 - INFO - Backtest - Position closed - Time: 2025-03-28 01:00:00, Exit Price: 3055.59000, Profit/Loss: 500.00
+2025-04-10 23:55:03,071 - INFO - Backtest - BUY executed - Time: 2025-03-28 02:00:00, Price: 3061.86000, SL: 3061.85800, TP: 3061.86400
+2025-04-10 23:55:03,073 - INFO - Backtest - Position closed - Time: 2025-03-28 03:00:00, Exit Price: 3073.85000, Profit/Loss: 11990.00
+2025-04-10 23:55:03,075 - INFO - Backtest - BUY executed - Time: 2025-03-28 04:00:00, Price: 3071.82000, SL: 3071.81800, TP: 3071.82400
+2025-04-10 23:55:03,077 - INFO - Backtest - Position closed - Time: 2025-03-28 05:00:00, Exit Price: 3075.23000, Profit/Loss: 3410.00
+2025-04-10 23:55:03,159 - INFO - Backtest - BUY executed - Time: 2025-04-01 08:00:00, Price: 3131.99000, SL: 3131.98800, TP: 3131.99400
+2025-04-10 23:55:03,160 - INFO - Backtest - Position closed - Time: 2025-04-01 09:00:00, Exit Price: 3133.69000, Profit/Loss: 1700.00
+2025-04-10 23:55:03,178 - INFO - Backtest - BUY executed - Time: 2025-04-02 05:00:00, Price: 3128.43000, SL: 3128.42800, TP: 3128.43400
+2025-04-10 23:55:03,193 - INFO - Backtest - Position closed - Time: 2025-04-02 06:00:00, Exit Price: 3125.43000, Profit/Loss: -3000.00
+2025-04-10 23:55:03,193 - INFO - Backtest - BUY executed - Time: 2025-04-02 11:00:00, Price: 3131.20000, SL: 3131.19800, TP: 3131.20400
+2025-04-10 23:55:03,193 - INFO - Backtest - Position closed - Time: 2025-04-02 12:00:00, Exit Price: 3131.01000, Profit/Loss: -190.00
+2025-04-10 23:55:03,193 - INFO - Backtest - BUY executed - Time: 2025-04-02 13:00:00, Price: 3114.45000, SL: 3114.44800, TP: 3114.45400
+2025-04-10 23:55:03,193 - INFO - Backtest - Position closed - Time: 2025-04-02 14:00:00, Exit Price: 3121.23000, Profit/Loss: 6780.00
+2025-04-10 23:55:03,209 - INFO - Backtest - BUY executed - Time: 2025-04-02 17:00:00, Price: 3124.78000, SL: 3124.77800, TP: 3124.78400
+2025-04-10 23:55:03,209 - INFO - Backtest - Position closed - Time: 2025-04-02 18:00:00, Exit Price: 3125.82000, Profit/Loss: 1040.00
+2025-04-10 23:55:03,209 - INFO - Backtest - BUY executed - Time: 2025-04-02 19:00:00, Price: 3131.40000, SL: 3131.39800, TP: 3131.40400
+2025-04-10 23:55:03,209 - INFO - Backtest - Position closed - Time: 2025-04-02 20:00:00, Exit Price: 3123.44000, Profit/Loss: -7960.00
+2025-04-10 23:55:03,209 - INFO - Backtest - BUY executed - Time: 2025-04-02 21:00:00, Price: 3121.78000, SL: 3121.77800, TP: 3121.78400
+2025-04-10 23:55:03,209 - INFO - Backtest - Position closed - Time: 2025-04-02 22:00:00, Exit Price: 3124.14000, Profit/Loss: 2360.00
+2025-04-10 23:55:03,209 - INFO - Backtest - BUY executed - Time: 2025-04-02 23:00:00, Price: 3135.73000, SL: 3135.72800, TP: 3135.73400
+2025-04-10 23:55:03,224 - INFO - Backtest - Position closed - Time: 2025-04-03 01:00:00, Exit Price: 3145.71000, Profit/Loss: 9980.00
+2025-04-10 23:55:03,224 - INFO - Backtest - BUY executed - Time: 2025-04-03 03:00:00, Price: 3151.25000, SL: 3151.24800, TP: 3151.25400
+2025-04-10 23:55:03,224 - INFO - Backtest - Position closed - Time: 2025-04-03 04:00:00, Exit Price: 3153.41000, Profit/Loss: 2160.00
+2025-04-10 23:55:03,224 - INFO - Backtest - BUY executed - Time: 2025-04-03 05:00:00, Price: 3145.07000, SL: 3145.06800, TP: 3145.07400
+2025-04-10 23:55:03,224 - INFO - Backtest - Position closed - Time: 2025-04-03 06:00:00, Exit Price: 3148.01000, Profit/Loss: 2940.00
+2025-04-10 23:55:03,240 - INFO - Backtest - BUY executed - Time: 2025-04-03 07:00:00, Price: 3140.29000, SL: 3140.28800, TP: 3140.29400
+2025-04-10 23:55:03,240 - INFO - Backtest - Position closed - Time: 2025-04-03 08:00:00, Exit Price: 3131.77000, Profit/Loss: -8520.00
+2025-04-10 23:55:03,269 - INFO - Backtest - BUY executed - Time: 2025-04-03 23:00:00, Price: 3114.27000, SL: 3114.26800, TP: 3114.27400
+2025-04-10 23:55:03,270 - INFO - Backtest - Position closed - Time: 2025-04-04 01:00:00, Exit Price: 3115.26000, Profit/Loss: 990.00
+2025-04-10 23:55:03,270 - INFO - Backtest - BUY executed - Time: 2025-04-04 02:00:00, Price: 3112.82000, SL: 3112.81800, TP: 3112.82400
+2025-04-10 23:55:03,270 - INFO - Backtest - Position closed - Time: 2025-04-04 03:00:00, Exit Price: 3110.54000, Profit/Loss: -2280.00
+2025-04-10 23:55:03,270 - INFO - Backtest - BUY executed - Time: 2025-04-04 04:00:00, Price: 3109.75000, SL: 3109.74800, TP: 3109.75400
+2025-04-10 23:55:03,270 - INFO - Backtest - Position closed - Time: 2025-04-04 05:00:00, Exit Price: 3096.71000, Profit/Loss: -13040.00
+2025-04-10 23:55:03,286 - INFO - Backtest - BUY executed - Time: 2025-04-04 08:00:00, Price: 3108.80000, SL: 3108.79800, TP: 3108.80400
+2025-04-10 23:55:03,286 - INFO - Backtest - Position closed - Time: 2025-04-04 09:00:00, Exit Price: 3100.99000, Profit/Loss: -7810.00
+2025-04-10 23:55:03,301 - INFO - Backtest - BUY executed - Time: 2025-04-04 13:00:00, Price: 3110.24000, SL: 3110.23800, TP: 3110.24400
+2025-04-10 23:55:03,301 - INFO - Backtest - Position closed - Time: 2025-04-04 14:00:00, Exit Price: 3110.23000, Profit/Loss: -10.00
+2025-04-10 23:55:03,333 - INFO - Backtest - BUY executed - Time: 2025-04-07 07:00:00, Price: 3035.47000, SL: 3035.46800, TP: 3035.47400
+2025-04-10 23:55:03,333 - INFO - Backtest - Position closed - Time: 2025-04-07 08:00:00, Exit Price: 3031.71000, Profit/Loss: -3760.00
+2025-04-10 23:55:03,348 - INFO - Backtest - BUY executed - Time: 2025-04-07 09:00:00, Price: 3029.79000, SL: 3029.78800, TP: 3029.79400
+2025-04-10 23:55:03,348 - INFO - Backtest - Position closed - Time: 2025-04-07 10:00:00, Exit Price: 3018.52000, Profit/Loss: -11270.00
+2025-04-10 23:55:03,348 - INFO - Backtest - BUY executed - Time: 2025-04-07 11:00:00, Price: 3031.39000, SL: 3031.38800, TP: 3031.39400
+2025-04-10 23:55:03,348 - INFO - Backtest - Position closed - Time: 2025-04-07 12:00:00, Exit Price: 3025.13000, Profit/Loss: -6260.00
+2025-04-10 23:55:03,348 - INFO - Backtest - BUY executed - Time: 2025-04-07 13:00:00, Price: 3031.28000, SL: 3031.27800, TP: 3031.28400
+2025-04-10 23:55:03,348 - INFO - Backtest - Position closed - Time: 2025-04-07 14:00:00, Exit Price: 3031.25000, Profit/Loss: -30.00
+2025-04-10 23:55:03,348 - INFO - Backtest - BUY executed - Time: 2025-04-07 15:00:00, Price: 3031.12000, SL: 3031.11800, TP: 3031.12400
+2025-04-10 23:55:03,364 - INFO - Backtest - Position closed - Time: 2025-04-07 16:00:00, Exit Price: 3015.36000, Profit/Loss: -15760.00
+2025-04-10 23:55:03,364 - INFO - Backtest - BUY executed - Time: 2025-04-07 17:00:00, Price: 2999.15000, SL: 2999.14800, TP: 2999.15400
+2025-04-10 23:55:03,364 - INFO - Backtest - Position closed - Time: 2025-04-07 18:00:00, Exit Price: 2987.50000, Profit/Loss: -11650.00
+2025-04-10 23:55:03,380 - INFO - Backtest - BUY executed - Time: 2025-04-08 03:00:00, Price: 2985.30000, SL: 2985.29800, TP: 2985.30400
+2025-04-10 23:55:03,380 - INFO - Backtest - Position closed - Time: 2025-04-08 04:00:00, Exit Price: 2999.74000, Profit/Loss: 14440.00
+2025-04-10 23:55:03,380 - INFO - Backtest - BUY executed - Time: 2025-04-08 05:00:00, Price: 3000.80000, SL: 3000.79800, TP: 3000.80400
+2025-04-10 23:55:03,380 - INFO - Backtest - Position closed - Time: 2025-04-08 06:00:00, Exit Price: 2994.65000, Profit/Loss: -6150.00
+2025-04-10 23:55:03,380 - INFO - Backtest - BUY executed - Time: 2025-04-08 07:00:00, Price: 3002.14000, SL: 3002.13800, TP: 3002.14400
+2025-04-10 23:55:03,395 - INFO - Backtest - Position closed - Time: 2025-04-08 08:00:00, Exit Price: 3005.63000, Profit/Loss: 3490.00
+2025-04-10 23:55:03,395 - INFO - Backtest - BUY executed - Time: 2025-04-08 09:00:00, Price: 3013.19000, SL: 3013.18800, TP: 3013.19400
+2025-04-10 23:55:03,395 - INFO - Backtest - Position closed - Time: 2025-04-08 10:00:00, Exit Price: 3003.54000, Profit/Loss: -9650.00
+2025-04-10 23:55:03,411 - INFO - Backtest - BUY executed - Time: 2025-04-08 15:00:00, Price: 3002.53000, SL: 3002.52800, TP: 3002.53400
+2025-04-10 23:55:03,411 - INFO - Backtest - Position closed - Time: 2025-04-08 16:00:00, Exit Price: 3010.28000, Profit/Loss: 7750.00
+2025-04-10 23:55:03,411 - INFO - Backtest - BUY executed - Time: 2025-04-08 17:00:00, Price: 3006.13000, SL: 3006.12800, TP: 3006.13400
+2025-04-10 23:55:03,411 - INFO - Backtest - Position closed - Time: 2025-04-08 18:00:00, Exit Price: 3001.46000, Profit/Loss: -4670.00
+2025-04-10 23:55:03,411 - INFO - Backtest - BUY executed - Time: 2025-04-08 19:00:00, Price: 2985.92000, SL: 2985.91800, TP: 2985.92400
+2025-04-10 23:55:03,426 - INFO - Backtest - Position closed - Time: 2025-04-08 20:00:00, Exit Price: 2985.04000, Profit/Loss: -880.00
+2025-04-10 23:55:03,442 - INFO - Backtest - BUY executed - Time: 2025-04-09 04:00:00, Price: 3008.61000, SL: 3008.60800, TP: 3008.61400
+2025-04-10 23:55:03,442 - INFO - Backtest - Position closed - Time: 2025-04-09 05:00:00, Exit Price: 3002.94000, Profit/Loss: -5670.00
+2025-04-10 23:55:03,442 - INFO - Backtest - BUY executed - Time: 2025-04-09 06:00:00, Price: 3004.39000, SL: 3004.38800, TP: 3004.39400
+2025-04-10 23:55:03,455 - INFO - Backtest - Position closed - Time: 2025-04-09 07:00:00, Exit Price: 3012.28000, Profit/Loss: 7890.00
+2025-04-10 23:55:03,458 - INFO - Backtest - BUY executed - Time: 2025-04-09 08:00:00, Price: 3015.24000, SL: 3015.23800, TP: 3015.24400
+2025-04-10 23:55:03,460 - INFO - Backtest - Position closed - Time: 2025-04-09 09:00:00, Exit Price: 3038.98000, Profit/Loss: 23740.00
+2025-04-10 23:55:03,474 - INFO - Backtest Results - Starting Equity: $10000.00, Ending Equity: $40840.00, Percentage Difference: 308.40%, Number of Trades: 176
+2025-04-10 23:55:03,474 - INFO - Backtest Trade History:
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2762.08000 on 2025-01-30 02:00:00, Exit: 2760.09000 on 2025-01-30 03:00:00, Profit/Loss: $-1990.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2760.31000 on 2025-01-30 04:00:00, Exit: 2761.71000 on 2025-01-30 05:00:00, Profit/Loss: $1400.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2760.35000 on 2025-01-30 06:00:00, Exit: 2760.50000 on 2025-01-30 07:00:00, Profit/Loss: $150.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2807.35000 on 2025-01-31 18:00:00, Exit: 2808.58000 on 2025-01-31 19:00:00, Profit/Loss: $1230.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2796.21000 on 2025-02-03 11:00:00, Exit: 2797.99000 on 2025-02-03 12:00:00, Profit/Loss: $1780.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2801.15000 on 2025-02-03 13:00:00, Exit: 2810.39000 on 2025-02-03 14:00:00, Profit/Loss: $9240.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2813.82000 on 2025-02-04 01:00:00, Exit: 2817.20000 on 2025-02-04 02:00:00, Profit/Loss: $3380.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2821.10000 on 2025-02-04 04:00:00, Exit: 2821.34000 on 2025-02-04 05:00:00, Profit/Loss: $240.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2835.77000 on 2025-02-04 17:00:00, Exit: 2840.37000 on 2025-02-04 18:00:00, Profit/Loss: $4600.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2858.37000 on 2025-02-07 02:00:00, Exit: 2866.14000 on 2025-02-07 03:00:00, Profit/Loss: $7770.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2868.67000 on 2025-02-07 04:00:00, Exit: 2867.08000 on 2025-02-07 05:00:00, Profit/Loss: $-1590.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2866.29000 on 2025-02-07 06:00:00, Exit: 2861.98000 on 2025-02-07 07:00:00, Profit/Loss: $-4310.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2863.56000 on 2025-02-07 14:00:00, Exit: 2862.38000 on 2025-02-07 15:00:00, Profit/Loss: $-1180.00
+2025-04-10 23:55:03,475 - INFO - BUY - Entry: 2860.64000 on 2025-02-07 18:00:00, Exit: 2860.00000 on 2025-02-07 19:00:00, Profit/Loss: $-640.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2871.81000 on 2025-02-10 03:00:00, Exit: 2873.77000 on 2025-02-10 04:00:00, Profit/Loss: $1960.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2875.49000 on 2025-02-10 05:00:00, Exit: 2879.17000 on 2025-02-10 06:00:00, Profit/Loss: $3680.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2879.09000 on 2025-02-10 07:00:00, Exit: 2888.22000 on 2025-02-10 08:00:00, Profit/Loss: $9130.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2918.61000 on 2025-02-11 04:00:00, Exit: 2919.39000 on 2025-02-11 05:00:00, Profit/Loss: $780.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2894.03000 on 2025-02-12 16:00:00, Exit: 2894.53000 on 2025-02-12 17:00:00, Profit/Loss: $500.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2902.49000 on 2025-02-12 18:00:00, Exit: 2902.81000 on 2025-02-12 19:00:00, Profit/Loss: $320.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2897.82000 on 2025-02-12 21:00:00, Exit: 2900.91000 on 2025-02-12 22:00:00, Profit/Loss: $3090.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2903.53000 on 2025-02-12 23:00:00, Exit: 2905.52000 on 2025-02-13 01:00:00, Profit/Loss: $1990.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2911.61000 on 2025-02-13 10:00:00, Exit: 2915.15000 on 2025-02-13 11:00:00, Profit/Loss: $3540.00
+2025-04-10 23:55:03,476 - INFO - BUY - Entry: 2923.96000 on 2025-02-13 20:00:00, Exit: 2926.80000 on 2025-02-13 21:00:00, Profit/Loss: $2840.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2928.40000 on 2025-02-13 22:00:00, Exit: 2927.57000 on 2025-02-13 23:00:00, Profit/Loss: $-830.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2927.74000 on 2025-02-14 02:00:00, Exit: 2929.81000 on 2025-02-14 03:00:00, Profit/Loss: $2070.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2927.19000 on 2025-02-14 04:00:00, Exit: 2924.25000 on 2025-02-14 05:00:00, Profit/Loss: $-2940.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2935.78000 on 2025-02-14 12:00:00, Exit: 2931.01000 on 2025-02-14 13:00:00, Profit/Loss: $-4770.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2903.24000 on 2025-02-17 05:00:00, Exit: 2898.92000 on 2025-02-17 06:00:00, Profit/Loss: $-4320.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2895.95000 on 2025-02-17 07:00:00, Exit: 2896.31000 on 2025-02-17 08:00:00, Profit/Loss: $360.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2902.46000 on 2025-02-17 09:00:00, Exit: 2900.12000 on 2025-02-17 10:00:00, Profit/Loss: $-2340.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2897.50000 on 2025-02-17 14:00:00, Exit: 2896.68000 on 2025-02-17 15:00:00, Profit/Loss: $-820.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2899.15000 on 2025-02-17 17:00:00, Exit: 2899.13000 on 2025-02-17 18:00:00, Profit/Loss: $-20.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2898.40000 on 2025-02-17 19:00:00, Exit: 2898.17000 on 2025-02-17 20:00:00, Profit/Loss: $-230.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2898.74000 on 2025-02-17 21:00:00, Exit: 2899.28000 on 2025-02-18 01:00:00, Profit/Loss: $540.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2899.13000 on 2025-02-18 02:00:00, Exit: 2895.63000 on 2025-02-18 03:00:00, Profit/Loss: $-3500.00
+2025-04-10 23:55:03,477 - INFO - BUY - Entry: 2903.02000 on 2025-02-18 04:00:00, Exit: 2908.93000 on 2025-02-18 05:00:00, Profit/Loss: $5910.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2910.72000 on 2025-02-18 06:00:00, Exit: 2910.49000 on 2025-02-18 07:00:00, Profit/Loss: $-230.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2911.46000 on 2025-02-18 09:00:00, Exit: 2912.30000 on 2025-02-18 10:00:00, Profit/Loss: $840.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2945.42000 on 2025-02-19 11:00:00, Exit: 2944.70000 on 2025-02-19 12:00:00, Profit/Loss: $-720.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2940.93000 on 2025-02-20 04:00:00, Exit: 2941.87000 on 2025-02-20 05:00:00, Profit/Loss: $940.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2939.86000 on 2025-02-20 06:00:00, Exit: 2946.76000 on 2025-02-20 07:00:00, Profit/Loss: $6900.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2948.67000 on 2025-02-20 13:00:00, Exit: 2945.45000 on 2025-02-20 14:00:00, Profit/Loss: $-3220.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2933.40000 on 2025-02-21 16:00:00, Exit: 2928.59000 on 2025-02-21 17:00:00, Profit/Loss: $-4810.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2936.68000 on 2025-02-21 18:00:00, Exit: 2939.74000 on 2025-02-21 19:00:00, Profit/Loss: $3060.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2933.33000 on 2025-02-21 21:00:00, Exit: 2934.65000 on 2025-02-21 22:00:00, Profit/Loss: $1320.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2935.27000 on 2025-02-21 23:00:00, Exit: 2936.81000 on 2025-02-24 01:00:00, Profit/Loss: $1540.00
+2025-04-10 23:55:03,478 - INFO - BUY - Entry: 2930.11000 on 2025-02-24 02:00:00, Exit: 2927.91000 on 2025-02-24 03:00:00, Profit/Loss: $-2200.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2940.81000 on 2025-02-24 04:00:00, Exit: 2941.03000 on 2025-02-24 05:00:00, Profit/Loss: $220.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2940.64000 on 2025-02-24 06:00:00, Exit: 2936.28000 on 2025-02-24 07:00:00, Profit/Loss: $-4360.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2938.54000 on 2025-02-24 08:00:00, Exit: 2943.76000 on 2025-02-24 09:00:00, Profit/Loss: $5220.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2946.28000 on 2025-02-24 10:00:00, Exit: 2944.16000 on 2025-02-24 11:00:00, Profit/Loss: $-2120.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2938.28000 on 2025-02-24 12:00:00, Exit: 2947.69000 on 2025-02-24 13:00:00, Profit/Loss: $9410.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2946.46000 on 2025-02-24 14:00:00, Exit: 2954.38000 on 2025-02-24 15:00:00, Profit/Loss: $7920.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2938.72000 on 2025-02-24 16:00:00, Exit: 2936.42000 on 2025-02-24 17:00:00, Profit/Loss: $-2300.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2947.12000 on 2025-02-24 20:00:00, Exit: 2949.12000 on 2025-02-24 21:00:00, Profit/Loss: $2000.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2950.51000 on 2025-02-24 22:00:00, Exit: 2952.63000 on 2025-02-24 23:00:00, Profit/Loss: $2120.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2949.92000 on 2025-02-25 01:00:00, Exit: 2949.60000 on 2025-02-25 02:00:00, Profit/Loss: $-320.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2949.54000 on 2025-02-25 03:00:00, Exit: 2948.56000 on 2025-02-25 04:00:00, Profit/Loss: $-980.00
+2025-04-10 23:55:03,479 - INFO - BUY - Entry: 2923.46000 on 2025-02-26 02:00:00, Exit: 2917.75000 on 2025-02-26 03:00:00, Profit/Loss: $-5710.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2920.96000 on 2025-02-26 04:00:00, Exit: 2917.10000 on 2025-02-26 05:00:00, Profit/Loss: $-3860.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2914.96000 on 2025-02-26 06:00:00, Exit: 2915.32000 on 2025-02-26 07:00:00, Profit/Loss: $360.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2906.67000 on 2025-02-26 08:00:00, Exit: 2915.37000 on 2025-02-26 09:00:00, Profit/Loss: $8700.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2917.90000 on 2025-02-26 10:00:00, Exit: 2913.14000 on 2025-02-26 11:00:00, Profit/Loss: $-4760.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2912.63000 on 2025-02-26 12:00:00, Exit: 2913.76000 on 2025-02-26 13:00:00, Profit/Loss: $1130.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2913.80000 on 2025-02-26 14:00:00, Exit: 2905.82000 on 2025-02-26 15:00:00, Profit/Loss: $-7980.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2913.03000 on 2025-02-26 17:00:00, Exit: 2912.99000 on 2025-02-26 18:00:00, Profit/Loss: $-40.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2913.71000 on 2025-02-26 19:00:00, Exit: 2914.86000 on 2025-02-26 20:00:00, Profit/Loss: $1150.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2913.84000 on 2025-02-26 21:00:00, Exit: 2916.22000 on 2025-02-26 22:00:00, Profit/Loss: $2380.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2915.78000 on 2025-02-26 23:00:00, Exit: 2919.15000 on 2025-02-27 01:00:00, Profit/Loss: $3370.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2917.05000 on 2025-02-27 02:00:00, Exit: 2912.57000 on 2025-02-27 03:00:00, Profit/Loss: $-4480.00
+2025-04-10 23:55:03,480 - INFO - BUY - Entry: 2906.68000 on 2025-02-27 04:00:00, Exit: 2905.67000 on 2025-02-27 05:00:00, Profit/Loss: $-1010.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2887.14000 on 2025-02-27 20:00:00, Exit: 2879.12000 on 2025-02-27 21:00:00, Profit/Loss: $-8020.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2876.85000 on 2025-02-27 23:00:00, Exit: 2875.92000 on 2025-02-28 01:00:00, Profit/Loss: $-930.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2876.95000 on 2025-02-28 02:00:00, Exit: 2874.74000 on 2025-02-28 03:00:00, Profit/Loss: $-2210.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2873.28000 on 2025-02-28 04:00:00, Exit: 2865.68000 on 2025-02-28 05:00:00, Profit/Loss: $-7600.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2862.12000 on 2025-02-28 13:00:00, Exit: 2856.23000 on 2025-02-28 14:00:00, Profit/Loss: $-5890.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2849.53000 on 2025-02-28 21:00:00, Exit: 2854.64000 on 2025-02-28 22:00:00, Profit/Loss: $5110.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2857.19000 on 2025-02-28 23:00:00, Exit: 2870.82000 on 2025-03-03 01:00:00, Profit/Loss: $13630.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2865.72000 on 2025-03-03 02:00:00, Exit: 2870.81000 on 2025-03-03 03:00:00, Profit/Loss: $5090.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2868.17000 on 2025-03-03 04:00:00, Exit: 2864.76000 on 2025-03-03 05:00:00, Profit/Loss: $-3410.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2867.33000 on 2025-03-03 06:00:00, Exit: 2863.79000 on 2025-03-03 07:00:00, Profit/Loss: $-3540.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2865.48000 on 2025-03-03 08:00:00, Exit: 2863.22000 on 2025-03-03 09:00:00, Profit/Loss: $-2260.00
+2025-04-10 23:55:03,481 - INFO - BUY - Entry: 2872.56000 on 2025-03-03 15:00:00, Exit: 2876.83000 on 2025-03-03 16:00:00, Profit/Loss: $4270.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2885.43000 on 2025-03-04 04:00:00, Exit: 2888.60000 on 2025-03-04 05:00:00, Profit/Loss: $3170.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2899.89000 on 2025-03-04 09:00:00, Exit: 2913.96000 on 2025-03-04 10:00:00, Profit/Loss: $14070.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2903.46000 on 2025-03-04 16:00:00, Exit: 2905.97000 on 2025-03-04 17:00:00, Profit/Loss: $2510.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2922.11000 on 2025-03-05 22:00:00, Exit: 2918.42000 on 2025-03-05 23:00:00, Profit/Loss: $-3690.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2924.58000 on 2025-03-06 03:00:00, Exit: 2925.54000 on 2025-03-06 04:00:00, Profit/Loss: $960.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2921.18000 on 2025-03-06 05:00:00, Exit: 2917.34000 on 2025-03-06 06:00:00, Profit/Loss: $-3840.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2917.10000 on 2025-03-06 18:00:00, Exit: 2915.46000 on 2025-03-06 19:00:00, Profit/Loss: $-1640.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2916.18000 on 2025-03-06 20:00:00, Exit: 2913.93000 on 2025-03-06 21:00:00, Profit/Loss: $-2250.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2908.74000 on 2025-03-06 22:00:00, Exit: 2910.90000 on 2025-03-06 23:00:00, Profit/Loss: $2160.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2910.26000 on 2025-03-07 01:00:00, Exit: 2904.71000 on 2025-03-07 02:00:00, Profit/Loss: $-5550.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2913.42000 on 2025-03-07 08:00:00, Exit: 2917.05000 on 2025-03-07 09:00:00, Profit/Loss: $3630.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2922.36000 on 2025-03-07 10:00:00, Exit: 2921.57000 on 2025-03-07 11:00:00, Profit/Loss: $-790.00
+2025-04-10 23:55:03,482 - INFO - BUY - Entry: 2917.89000 on 2025-03-07 12:00:00, Exit: 2918.71000 on 2025-03-07 13:00:00, Profit/Loss: $820.00
+2025-04-10 23:55:03,483 - INFO - BUY - Entry: 2918.67000 on 2025-03-07 14:00:00, Exit: 2913.73000 on 2025-03-07 15:00:00, Profit/Loss: $-4940.00
+2025-04-10 23:55:03,483 - INFO - BUY - Entry: 2915.71000 on 2025-03-07 17:00:00, Exit: 2913.94000 on 2025-03-07 18:00:00, Profit/Loss: $-1770.00
+2025-04-10 23:55:03,483 - INFO - BUY - Entry: 2898.99000 on 2025-03-11 04:00:00, Exit: 2896.88000 on 2025-03-11 05:00:00, Profit/Loss: $-2110.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2897.66000 on 2025-03-11 06:00:00, Exit: 2895.81000 on 2025-03-11 07:00:00, Profit/Loss: $-1850.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2902.32000 on 2025-03-11 08:00:00, Exit: 2900.96000 on 2025-03-11 09:00:00, Profit/Loss: $-1360.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2915.44000 on 2025-03-12 01:00:00, Exit: 2914.15000 on 2025-03-12 02:00:00, Profit/Loss: $-1290.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2931.28000 on 2025-03-12 21:00:00, Exit: 2933.24000 on 2025-03-12 22:00:00, Profit/Loss: $1960.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2998.60000 on 2025-03-17 16:00:00, Exit: 2997.08000 on 2025-03-17 17:00:00, Profit/Loss: $-1520.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2994.41000 on 2025-03-17 18:00:00, Exit: 2997.77000 on 2025-03-17 19:00:00, Profit/Loss: $3360.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2999.31000 on 2025-03-17 20:00:00, Exit: 3000.17000 on 2025-03-17 21:00:00, Profit/Loss: $860.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 3000.43000 on 2025-03-17 22:00:00, Exit: 3000.16000 on 2025-03-18 00:00:00, Profit/Loss: $-270.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 2999.75000 on 2025-03-18 01:00:00, Exit: 3001.49000 on 2025-03-18 02:00:00, Profit/Loss: $1740.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 3005.64000 on 2025-03-18 03:00:00, Exit: 3010.85000 on 2025-03-18 04:00:00, Profit/Loss: $5210.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 3047.82000 on 2025-03-19 21:00:00, Exit: 3046.94000 on 2025-03-19 22:00:00, Profit/Loss: $-880.00
+2025-04-10 23:55:03,485 - INFO - BUY - Entry: 3050.13000 on 2025-03-20 00:00:00, Exit: 3050.01000 on 2025-03-20 01:00:00, Profit/Loss: $-120.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3049.61000 on 2025-03-20 03:00:00, Exit: 3045.59000 on 2025-03-20 04:00:00, Profit/Loss: $-4020.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3049.95000 on 2025-03-20 05:00:00, Exit: 3052.44000 on 2025-03-20 06:00:00, Profit/Loss: $2490.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3045.73000 on 2025-03-21 00:00:00, Exit: 3046.35000 on 2025-03-21 01:00:00, Profit/Loss: $620.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3042.78000 on 2025-03-21 02:00:00, Exit: 3035.88000 on 2025-03-21 03:00:00, Profit/Loss: $-6900.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3025.51000 on 2025-03-24 00:00:00, Exit: 3024.65000 on 2025-03-24 01:00:00, Profit/Loss: $-860.00
+2025-04-10 23:55:03,486 - INFO - BUY - Entry: 3018.47000 on 2025-03-24 02:00:00, Exit: 3020.86000 on 2025-03-24 03:00:00, Profit/Loss: $2390.00
+2025-04-10 23:55:03,487 - INFO - BUY - Entry: 3016.26000 on 2025-03-24 04:00:00, Exit: 3016.89000 on 2025-03-24 05:00:00, Profit/Loss: $630.00
+2025-04-10 23:55:03,488 - INFO - BUY - Entry: 3019.41000 on 2025-03-24 06:00:00, Exit: 3022.03000 on 2025-03-24 07:00:00, Profit/Loss: $2620.00
+2025-04-10 23:55:03,488 - INFO - BUY - Entry: 3022.31000 on 2025-03-24 09:00:00, Exit: 3028.79000 on 2025-03-24 10:00:00, Profit/Loss: $6480.00
+2025-04-10 23:55:03,488 - INFO - BUY - Entry: 3023.53000 on 2025-03-24 11:00:00, Exit: 3028.08000 on 2025-03-24 12:00:00, Profit/Loss: $4550.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3024.57000 on 2025-03-24 13:00:00, Exit: 3024.20000 on 2025-03-24 14:00:00, Profit/Loss: $-370.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3022.49000 on 2025-03-24 15:00:00, Exit: 3012.06000 on 2025-03-24 16:00:00, Profit/Loss: $-10430.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3011.81000 on 2025-03-25 03:00:00, Exit: 3009.10000 on 2025-03-25 04:00:00, Profit/Loss: $-2710.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3015.28000 on 2025-03-25 05:00:00, Exit: 3015.21000 on 2025-03-25 06:00:00, Profit/Loss: $-70.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3018.25000 on 2025-03-25 07:00:00, Exit: 3017.71000 on 2025-03-25 08:00:00, Profit/Loss: $-540.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3011.05000 on 2025-03-25 09:00:00, Exit: 3021.27000 on 2025-03-25 10:00:00, Profit/Loss: $10220.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3020.65000 on 2025-03-25 13:00:00, Exit: 3021.76000 on 2025-03-25 14:00:00, Profit/Loss: $1110.00
+2025-04-10 23:55:03,489 - INFO - BUY - Entry: 3024.99000 on 2025-03-25 16:00:00, Exit: 3021.46000 on 2025-03-25 17:00:00, Profit/Loss: $-3530.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3023.15000 on 2025-03-25 18:00:00, Exit: 3022.64000 on 2025-03-25 19:00:00, Profit/Loss: $-510.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3018.41000 on 2025-03-25 20:00:00, Exit: 3019.60000 on 2025-03-25 21:00:00, Profit/Loss: $1190.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3024.75000 on 2025-03-26 03:00:00, Exit: 3024.16000 on 2025-03-26 04:00:00, Profit/Loss: $-590.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3026.15000 on 2025-03-26 08:00:00, Exit: 3030.47000 on 2025-03-26 09:00:00, Profit/Loss: $4320.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3023.96000 on 2025-03-26 10:00:00, Exit: 3018.64000 on 2025-03-26 11:00:00, Profit/Loss: $-5320.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3023.25000 on 2025-03-26 12:00:00, Exit: 3027.49000 on 2025-03-26 13:00:00, Profit/Loss: $4240.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3027.03000 on 2025-03-26 14:00:00, Exit: 3016.69000 on 2025-03-26 15:00:00, Profit/Loss: $-10340.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3025.33000 on 2025-03-27 02:00:00, Exit: 3023.51000 on 2025-03-27 03:00:00, Profit/Loss: $-1820.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3031.66000 on 2025-03-27 04:00:00, Exit: 3033.59000 on 2025-03-27 05:00:00, Profit/Loss: $1930.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3048.32000 on 2025-03-27 18:00:00, Exit: 3052.84000 on 2025-03-27 19:00:00, Profit/Loss: $4520.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3055.82000 on 2025-03-27 20:00:00, Exit: 3057.44000 on 2025-03-27 21:00:00, Profit/Loss: $1620.00
+2025-04-10 23:55:03,490 - INFO - BUY - Entry: 3055.09000 on 2025-03-28 00:00:00, Exit: 3055.59000 on 2025-03-28 01:00:00, Profit/Loss: $500.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3061.86000 on 2025-03-28 02:00:00, Exit: 3073.85000 on 2025-03-28 03:00:00, Profit/Loss: $11990.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3071.82000 on 2025-03-28 04:00:00, Exit: 3075.23000 on 2025-03-28 05:00:00, Profit/Loss: $3410.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3131.99000 on 2025-04-01 08:00:00, Exit: 3133.69000 on 2025-04-01 09:00:00, Profit/Loss: $1700.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3128.43000 on 2025-04-02 05:00:00, Exit: 3125.43000 on 2025-04-02 06:00:00, Profit/Loss: $-3000.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3131.20000 on 2025-04-02 11:00:00, Exit: 3131.01000 on 2025-04-02 12:00:00, Profit/Loss: $-190.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3114.45000 on 2025-04-02 13:00:00, Exit: 3121.23000 on 2025-04-02 14:00:00, Profit/Loss: $6780.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3124.78000 on 2025-04-02 17:00:00, Exit: 3125.82000 on 2025-04-02 18:00:00, Profit/Loss: $1040.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3131.40000 on 2025-04-02 19:00:00, Exit: 3123.44000 on 2025-04-02 20:00:00, Profit/Loss: $-7960.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3121.78000 on 2025-04-02 21:00:00, Exit: 3124.14000 on 2025-04-02 22:00:00, Profit/Loss: $2360.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3135.73000 on 2025-04-02 23:00:00, Exit: 3145.71000 on 2025-04-03 01:00:00, Profit/Loss: $9980.00
+2025-04-10 23:55:03,491 - INFO - BUY - Entry: 3151.25000 on 2025-04-03 03:00:00, Exit: 3153.41000 on 2025-04-03 04:00:00, Profit/Loss: $2160.00
+2025-04-10 23:55:03,492 - INFO - BUY - Entry: 3145.07000 on 2025-04-03 05:00:00, Exit: 3148.01000 on 2025-04-03 06:00:00, Profit/Loss: $2940.00
+2025-04-10 23:55:03,492 - INFO - BUY - Entry: 3140.29000 on 2025-04-03 07:00:00, Exit: 3131.77000 on 2025-04-03 08:00:00, Profit/Loss: $-8520.00
+2025-04-10 23:55:03,492 - INFO - BUY - Entry: 3114.27000 on 2025-04-03 23:00:00, Exit: 3115.26000 on 2025-04-04 01:00:00, Profit/Loss: $990.00
+2025-04-10 23:55:03,492 - INFO - BUY - Entry: 3112.82000 on 2025-04-04 02:00:00, Exit: 3110.54000 on 2025-04-04 03:00:00, Profit/Loss: $-2280.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3109.75000 on 2025-04-04 04:00:00, Exit: 3096.71000 on 2025-04-04 05:00:00, Profit/Loss: $-13040.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3108.80000 on 2025-04-04 08:00:00, Exit: 3100.99000 on 2025-04-04 09:00:00, Profit/Loss: $-7810.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3110.24000 on 2025-04-04 13:00:00, Exit: 3110.23000 on 2025-04-04 14:00:00, Profit/Loss: $-10.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3035.47000 on 2025-04-07 07:00:00, Exit: 3031.71000 on 2025-04-07 08:00:00, Profit/Loss: $-3760.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3029.79000 on 2025-04-07 09:00:00, Exit: 3018.52000 on 2025-04-07 10:00:00, Profit/Loss: $-11270.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3031.39000 on 2025-04-07 11:00:00, Exit: 3025.13000 on 2025-04-07 12:00:00, Profit/Loss: $-6260.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3031.28000 on 2025-04-07 13:00:00, Exit: 3031.25000 on 2025-04-07 14:00:00, Profit/Loss: $-30.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3031.12000 on 2025-04-07 15:00:00, Exit: 3015.36000 on 2025-04-07 16:00:00, Profit/Loss: $-15760.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 2999.15000 on 2025-04-07 17:00:00, Exit: 2987.50000 on 2025-04-07 18:00:00, Profit/Loss: $-11650.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 2985.30000 on 2025-04-08 03:00:00, Exit: 2999.74000 on 2025-04-08 04:00:00, Profit/Loss: $14440.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3000.80000 on 2025-04-08 05:00:00, Exit: 2994.65000 on 2025-04-08 06:00:00, Profit/Loss: $-6150.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3002.14000 on 2025-04-08 07:00:00, Exit: 3005.63000 on 2025-04-08 08:00:00, Profit/Loss: $3490.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3013.19000 on 2025-04-08 09:00:00, Exit: 3003.54000 on 2025-04-08 10:00:00, Profit/Loss: $-9650.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3002.53000 on 2025-04-08 15:00:00, Exit: 3010.28000 on 2025-04-08 16:00:00, Profit/Loss: $7750.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3006.13000 on 2025-04-08 17:00:00, Exit: 3001.46000 on 2025-04-08 18:00:00, Profit/Loss: $-4670.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 2985.92000 on 2025-04-08 19:00:00, Exit: 2985.04000 on 2025-04-08 20:00:00, Profit/Loss: $-880.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3008.61000 on 2025-04-09 04:00:00, Exit: 3002.94000 on 2025-04-09 05:00:00, Profit/Loss: $-5670.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3004.39000 on 2025-04-09 06:00:00, Exit: 3012.28000 on 2025-04-09 07:00:00, Profit/Loss: $7890.00
+2025-04-10 23:55:03,493 - INFO - BUY - Entry: 3015.24000 on 2025-04-09 08:00:00, Exit: 3038.98000 on 2025-04-09 09:00:00, Profit/Loss: $23740.00
