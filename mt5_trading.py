@@ -292,12 +292,11 @@ def sync_with_hour():
     print(f"Sleeping {delay:.1f} seconds until {next_hour}")
     time.sleep(delay)
 
-# Main execution
 if __name__ == "__main__":
     # Initialize MT5 with demo account check
     initialize_mt5()
 
-    # # Backtesting (uncomment to run)
+    # Backtesting (uncomment to run instead of live trading)
     # start = datetime.datetime(2025, 1, 1)
     # end = datetime.datetime(2025, 4, 10)
     # logging.info("Running backtest...")
@@ -305,22 +304,10 @@ if __name__ == "__main__":
     # logging.info(f"Backtest End Date: {end}")
     # trades = backtest(start, end)
 
-    # Live trading loop (uncomment to run live)
-    logging.info("Starting live trading...")
-    # Run trading logic once immediately before starting the loop
-    prev_positions = trading_logic()
+    # Live trading (single run)
+    logging.info("Starting live trading (single execution)...")
+    prev_positions = trading_logic()  # Run trading logic once
+    check_closed_positions(prev_positions)  # Check for any closed positions
 
-    while True:
-        try:
-            current_positions = trading_logic()
-            sync_with_hour()
-            check_closed_positions(prev_positions)
-            prev_positions = current_positions
-            time.sleep(3600)  # Check every hour
-        except Exception as e:
-            logging.error(f"Error in trading loop: {str(e)}")
-            time.sleep(60)  # Wait a minute before retrying
-    
-
-# Shutdown MT5 connection
-mt5.shutdown()
+    # Shutdown MT5 connection
+    mt5.shutdown()
