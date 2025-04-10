@@ -29,4 +29,4 @@ jobs:
           MT5_SERVER: ${{ secrets.MT5_SERVER }}
         run: |
           python -c "import os; print('Account ID:', os.getenv('MT5_ACCOUNT_ID'))"  # Verify secrets
-          python trading_script.py  # Replace with your actual script name
+          python mt5_trading.py  # Replace with your actual script name
