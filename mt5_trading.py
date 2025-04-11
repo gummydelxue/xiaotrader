@@ -28,7 +28,7 @@ logging.basicConfig(
 # Initialize MT5 connection
 def initialize_mt5():
     if not mt5.initialize():
-        logging.error("Failed to initialize MT5")
+        logging.error("Failed to initialize MT5, error: %s", mt5.last_error())
         quit()
     
     symbol_info = mt5.symbol_info(SYMBOL)
