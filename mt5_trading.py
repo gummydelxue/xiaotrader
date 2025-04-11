@@ -448,7 +448,7 @@ def backtest(start_date, end_date):
     except Exception as e:
         logging.error(f"Error in backtest: {str(e)}")
         return []
-
+    """
 # Sync with hourly execution
 def sync_with_hour():
     now = datetime.datetime.now()
@@ -456,24 +456,24 @@ def sync_with_hour():
     delay = (next_hour - now).total_seconds() + 10
     logging.info(f"Sleeping {delay:.1f} seconds until {next_hour + datetime.timedelta(seconds=10)}")
     time.sleep(delay)
-
+    """
 if __name__ == "__main__":
     initialize_mt5()
-
+    """
     # Backtesting
     start = datetime.datetime(2025, 4, 9)
     end = datetime.datetime(2025, 4, 10)
     logging.info("Running backtest...")
     logging.info(f"Backtest Start Date: {start}, End Date: {end}")
     trades = backtest(start, end)
-
-    # Live trading (uncomment to run)
     """
+    # Live trading (uncomment to run)
+    
     logging.info("Starting hourly live trading...")
     while True:
-        sync_with_hour()
+        #sync_with_hour()
         prev_positions = trading_logic()
         check_closed_positions(prev_positions)
-    """
+
 
     mt5.shutdown()
