@@ -470,10 +470,8 @@ if __name__ == "__main__":
     # Live trading (uncomment to run)
     
     logging.info("Starting hourly live trading...")
-    while True:
-        #sync_with_hour()
-        prev_positions = trading_logic()
-        check_closed_positions(prev_positions)
+    prev_positions = trading_logic()
+    check_closed_positions(prev_positions)
 
 
     mt5.shutdown()
